@@ -1,0 +1,24 @@
+{
+  "name": "@weigen393/datacatpaw",
+  "version": "1.0.0",
+  "description": "Send application data to InfluxDB",
+  "main": "dataCatPaw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weigen393/DataCatPaw.git"
+  },
+  "keywords": ["DataCat","DataCatPaw"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weigen393/DataCatPaw/issues"
+  },
+  "homepage": "https://github.com/weigen393/DataCatPaw#readme",
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.29.0",
+    "dotenv": "^16.0.1"
+  }
+}
