@@ -1,6 +1,6 @@
 {
   "name": "@weigen393/datacatpaw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Send application data to InfluxDB",
   "main": "dataCatPaw.js",
   "scripts": {
